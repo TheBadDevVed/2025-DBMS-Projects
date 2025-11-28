@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1065177555687",
+    "project_id": "chat-app-7498a",
+    "storage_bucket": "chat-app-7498a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065177555687:android:5780479f4ee3f612ba3842",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065177555687-u981io34vd2betcgpn5jk6sfv1ihs08v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoQ7qrvI6XT44KEOr6-VJ6z8QuTGF02ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065177555687-u981io34vd2betcgpn5jk6sfv1ihs08v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065177555687:android:6119fbf48aedaef1ba3842",
+        "android_client_info": {
+          "package_name": "com.example.wayfare_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065177555687-u981io34vd2betcgpn5jk6sfv1ihs08v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoQ7qrvI6XT44KEOr6-VJ6z8QuTGF02ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065177555687-u981io34vd2betcgpn5jk6sfv1ihs08v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
